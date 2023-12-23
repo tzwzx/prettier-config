@@ -7,3 +7,11 @@ Prettier shareable config
 ```bash
 bun add --D @tzwzx/prettier-config
 ```
+
+package.json
+
+```json
+{
+  "prettier": "@tzwzx/prettier-config"
+}
+```
