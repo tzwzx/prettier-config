@@ -5,7 +5,7 @@ Prettier shareable config
 ## Installation
 
 ```bash
-bun add --D @tzwzx/prettier-config
+npm install --save-dev @tzwzx/prettier-config
 ```
 
 package.json
