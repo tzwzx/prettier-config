@@ -1,12 +1,12 @@
 {
   "name": "@tzwzx/prettier-config",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Prettier shareable config",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@ianvs/prettier-plugin-sort-imports": "4.3.0",
-    "prettier": "3.3.2"
+    "@ianvs/prettier-plugin-sort-imports": "4.3.1",
+    "prettier": "3.3.3"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
