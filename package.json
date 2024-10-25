@@ -1,6 +1,6 @@
 {
   "name": "@tzwzx/prettier-config",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Prettier shareable config",
   "license": "MIT",
   "main": "index.js",
